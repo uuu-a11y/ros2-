@@ -1,0 +1,1 @@
+Invoking command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/demo_gazebo_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/demo_gazebo_sim -DCMAKE_INSTALL_PREFIX=/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/demo_gazebo_sim

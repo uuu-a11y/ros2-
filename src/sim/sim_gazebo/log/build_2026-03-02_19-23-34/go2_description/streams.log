@@ -1,0 +1,57 @@
+[0.014s] Invoking command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description -- -j24 -l24
+[0.050s] Invoked command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description -- -j24 -l24
+[0.057s] Invoking command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description
+[0.061s] -- Install configuration: ""
+[0.062s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/launch
+[0.063s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/launch/gazebo.launch
+[0.063s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/launch/check_joint.rviz
+[0.063s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/launch/dog_description.launch.py
+[0.064s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/launch/go2_rviz.launch
+[0.064s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/launch/dog_description_ign.launch.py
+[0.064s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/config
+[0.064s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/config/joint_names_go2_description.yaml
+[0.064s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/config/robot_control.yaml
+[0.064s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae
+[0.064s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae/hip.dae
+[0.073s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae/base.dae
+[0.097s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae/calf.dae
+[0.100s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae/foot.dae
+[0.100s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae/calf_mirror.dae
+[0.104s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae/thigh.dae
+[0.112s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/dae/thigh_mirror.dae
+[0.120s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/urdf
+[0.120s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/urdf/Amended_collision_model.png
+[0.122s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/urdf/go2_description.urdf
+[0.122s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/urdf/go2_description_ign.urdf
+[0.122s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/urdf/Normal_collision_model.png
+[0.122s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes
+[0.123s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes/hip.dae
+[0.130s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes/base.dae
+[0.147s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes/calf.dae
+[0.148s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes/foot.dae
+[0.149s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes/calf_mirror.dae
+[0.150s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes/thigh.dae
+[0.158s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/meshes/thigh_mirror.dae
+[0.164s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/xacro
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/xacro/gazebo.xacro
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/xacro/materials.xacro
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/xacro/transmission.xacro
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/xacro/robot.xacro
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/xacro/leg.xacro
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/xacro/const.xacro
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/ament_index/resource_index/package_run_dependencies/go2_description
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/ament_index/resource_index/parent_prefix_path/go2_description
+[0.165s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/environment/ament_prefix_path.sh
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/environment/ament_prefix_path.dsv
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/environment/path.sh
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/environment/path.dsv
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/local_setup.bash
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/local_setup.sh
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/local_setup.zsh
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/local_setup.dsv
+[0.166s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/package.dsv
+[0.167s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/ament_index/resource_index/packages/go2_description
+[0.167s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/cmake/go2_descriptionConfig.cmake
+[0.167s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/cmake/go2_descriptionConfig-version.cmake
+[0.167s] -- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/go2_description/share/go2_description/package.xml
+[0.168s] Invoked command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description

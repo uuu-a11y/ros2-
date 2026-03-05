@@ -1,0 +1,28 @@
+[0.015s] Invoking command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_sim': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/mycar_description_sim -DCMAKE_INSTALL_PREFIX=/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim
+[0.140s] -- The C compiler identification is GNU 11.4.0
+[0.229s] -- The CXX compiler identification is GNU 11.4.0
+[0.237s] -- Detecting C compiler ABI info
+[0.311s] -- Detecting C compiler ABI info - done
+[0.315s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.315s] -- Detecting C compile features
+[0.315s] -- Detecting C compile features - done
+[0.317s] -- Detecting CXX compiler ABI info
+[0.380s] -- Detecting CXX compiler ABI info - done
+[0.385s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.385s] -- Detecting CXX compile features
+[0.385s] -- Detecting CXX compile features - done
+[0.387s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.496s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.589s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.644s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[0.644s]   ament_package_xml() package name 'mycar_description_sim' in '/package.xml'
+[0.644s]   does not match current PROJECT_NAME 'mycar_description'.  You must call
+[0.644s]   project() with the same package name before.
+[0.644s] Call Stack (most recent call first):
+[0.644s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.644s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.644s] 
+[0.644s] [0m
+[0.644s] -- Configuring incomplete, errors occurred!
+[0.644s] See also "/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_sim/CMakeFiles/CMakeOutput.log".
+[0.647s] Invoked command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_sim' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/mycar_description_sim -DCMAKE_INSTALL_PREFIX=/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim

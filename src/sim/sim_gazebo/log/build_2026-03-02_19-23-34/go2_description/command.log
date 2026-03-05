@@ -1,0 +1,4 @@
+Invoking command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description -- -j24 -l24
+Invoked command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description -- -j24 -l24
+Invoking command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description
+Invoked command in '/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/go2_description

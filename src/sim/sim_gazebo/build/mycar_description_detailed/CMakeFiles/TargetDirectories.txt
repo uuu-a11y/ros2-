@@ -1,0 +1,9 @@
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/uninstall.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/mycar_description_detailed_uninstall.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/test.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/edit_cache.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/rebuild_cache.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/list_install_components.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/install.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/install/local.dir
+/home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_detailed/CMakeFiles/install/strip.dir

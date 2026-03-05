@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<robot name="mycar">
+  <material name="yellow">
+    <color rgba="0.9 0.8 0.4 1.0"/>
+  </material>
+  
+  <link name="base_footprint">
+    <visual>
+      <geometry>
+        <mesh filename="package://mycar_description/mesh/mycar_2w.stl" scale="0.001 0.001 0.001"/>  
+      </geometry>
+      <origin rpy="0.0 0.0 1.57" xyz="0 0 0"/>
+      <material name="yellow"/>
+    </visual>
+  </link>
+</robot>

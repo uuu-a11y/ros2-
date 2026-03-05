@@ -1,0 +1,36 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/build/mycar_description_sim
+-- Install configuration: ""
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/launch
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/launch/mycar_desc.launch.py
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/urdf
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/urdf/arduino.urdf
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/urdf/stm32_2w.urdf
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/urdf/stm32_4w.urdf
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/mesh
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/mesh/mycar_2w.stl
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/mesh/mycar_4w.stl
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/rviz
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/rviz/mycar.rviz
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/ament_index/resource_index/package_run_dependencies/mycar_description_sim
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/ament_index/resource_index/parent_prefix_path/mycar_description_sim
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/environment/ament_prefix_path.sh
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/environment/ament_prefix_path.dsv
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/environment/path.sh
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/environment/path.dsv
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/local_setup.bash
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/local_setup.sh
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/local_setup.zsh
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/local_setup.dsv
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/package.dsv
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/ament_index/resource_index/packages/mycar_description_sim
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/cmake/mycar_description_simConfig.cmake
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/cmake/mycar_description_simConfig-version.cmake
+-- Installing: /home/gg/ros2_nav2_ws/src/sim/sim_gazebo/install/mycar_description_sim/share/mycar_description_sim/package.xml
